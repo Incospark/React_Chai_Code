@@ -1,0 +1,4 @@
+// npx create-react-app 01basireact
+
+// npx- Node Package Executer
+// create-react-app - Utility means a Software
