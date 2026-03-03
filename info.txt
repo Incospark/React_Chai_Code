@@ -8,3 +8,15 @@ rfc for react functional components shortcut for vs code
 pros banata hai components ko reusable matlab ek baar apne card bana liya toh kyu na us card ko component mai rakh liya jae taki hum baar aar use jaha chahe waha use kr sakte hai
 
 kisi bhe element ko target karne ke liye hum hooks ka use karte hai
+
+✅ OPTION 1 (Recommended for You Right Now)
+Downgrade to Tailwind v3 (Easier for Learning)
+
+Since you're following React fundamentals tutorials (most use v3), do this:
+
+1️⃣ Remove v4
+npm uninstall tailwindcss
+2️⃣ Install v3
+npm install -D tailwindcss@3 postcss autoprefixer
+3️⃣ Now Run
+npx tailwindcss init -p
