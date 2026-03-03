@@ -2,3 +2,9 @@
 
 // npx- Node Package Executer
 // create-react-app - Utility means a Software
+
+rfc for react functional components shortcut for vs code
+
+pros banata hai components ko reusable matlab ek baar apne card bana liya toh kyu na us card ko component mai rakh liya jae taki hum baar aar use jaha chahe waha use kr sakte hai
+
+kisi bhe element ko target karne ke liye hum hooks ka use karte hai
