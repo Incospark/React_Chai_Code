@@ -20,3 +20,12 @@ npm uninstall tailwindcss
 npm install -D tailwindcss@3 postcss autoprefixer
 3️⃣ Now Run
 npx tailwindcss init -p
+
+
+
+redux ka kaam ye hai ki state management karna
+react-redux
+
+Redux-toolkit (RTK)
+
+zustand ka bhee kaam ye hai ki state management karna
