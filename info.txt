@@ -14,6 +14,9 @@ Downgrade to Tailwind v3 (Easier for Learning)
 
 Since you're following React fundamentals tutorials (most use v3), do this:
 
+
+npm create vite@latest
+
 1️⃣ Remove v4
 npm uninstall tailwindcss
 2️⃣ Install v3
