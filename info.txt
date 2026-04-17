@@ -32,3 +32,10 @@ react-redux
 Redux-toolkit (RTK)
 
 zustand ka bhee kaam ye hai ki state management karna
+
+12megaForm folder
+npm install @reduxjs/toolkit
+npm install react-redux
+
+ npm install react-router-dom appwrite @tinymce/tinymce-react html-react-parser react-hook-form 
+
